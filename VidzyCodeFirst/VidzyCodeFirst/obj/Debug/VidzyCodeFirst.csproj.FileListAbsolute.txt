@@ -1,0 +1,17 @@
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\bin\Debug\VidzyCodeFirst.exe.config
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\bin\Debug\VidzyCodeFirst.exe
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\bin\Debug\VidzyCodeFirst.pdb
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\bin\Debug\EntityFramework.dll
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\bin\Debug\EntityFramework.xml
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.csprojAssemblyReference.cache
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.csproj.CoreCompileInputs.cache
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.csproj.CopyComplete
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.exe
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.pdb
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.Migrations.InitialModel.resources
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.csproj.GenerateResource.cache
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.Migrations.PopulateGenreTable.resources
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.Migrations.ChangeVideoToGenreRelationship.resources
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.Migrations.AddClassificationColumnToVideosTable.resources
