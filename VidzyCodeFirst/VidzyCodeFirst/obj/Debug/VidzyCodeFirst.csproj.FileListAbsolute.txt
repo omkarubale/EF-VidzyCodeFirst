@@ -15,3 +15,5 @@ D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCode
 D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.Migrations.PopulateGenreTable.resources
 D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.Migrations.ChangeVideoToGenreRelationship.resources
 D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.Migrations.AddClassificationColumnToVideosTable.resources
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.Migrations.AddConstraintsToVideosandGenreTables.resources
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-VidzyCodeFirst\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.Migrations.AddTagsTableAndConfigurationForTagsTable.resources

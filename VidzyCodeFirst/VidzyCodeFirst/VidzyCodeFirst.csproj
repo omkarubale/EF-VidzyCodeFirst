@@ -55,7 +55,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entities\Genre.cs" />
+    <Compile Include="Entities\Tag.cs" />
     <Compile Include="Entities\Video.cs" />
+    <Compile Include="EntityConfigurations\GenreConfiguration.cs" />
+    <Compile Include="EntityConfigurations\TagConfiguration.cs" />
+    <Compile Include="EntityConfigurations\VideoConfiguration.cs" />
     <Compile Include="Enums\eClassification.cs" />
     <Compile Include="Migrations\202008160944501_InitialModel.cs" />
     <Compile Include="Migrations\202008160944501_InitialModel.Designer.cs">
@@ -72,6 +76,14 @@
     <Compile Include="Migrations\202008160956042_AddClassificationColumnToVideosTable.cs" />
     <Compile Include="Migrations\202008160956042_AddClassificationColumnToVideosTable.Designer.cs">
       <DependentUpon>202008160956042_AddClassificationColumnToVideosTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202008172143558_AddConstraintsToVideosandGenreTables.cs" />
+    <Compile Include="Migrations\202008172143558_AddConstraintsToVideosandGenreTables.Designer.cs">
+      <DependentUpon>202008172143558_AddConstraintsToVideosandGenreTables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202008172201394_AddTagsTableAndConfigurationForTagsTable.cs" />
+    <Compile Include="Migrations\202008172201394_AddTagsTableAndConfigurationForTagsTable.Designer.cs">
+      <DependentUpon>202008172201394_AddTagsTableAndConfigurationForTagsTable.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
@@ -94,6 +106,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202008160956042_AddClassificationColumnToVideosTable.resx">
       <DependentUpon>202008160956042_AddClassificationColumnToVideosTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202008172143558_AddConstraintsToVideosandGenreTables.resx">
+      <DependentUpon>202008172143558_AddConstraintsToVideosandGenreTables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202008172201394_AddTagsTableAndConfigurationForTagsTable.resx">
+      <DependentUpon>202008172201394_AddTagsTableAndConfigurationForTagsTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

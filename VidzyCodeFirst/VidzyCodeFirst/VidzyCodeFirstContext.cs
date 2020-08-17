@@ -4,6 +4,7 @@ namespace VidzyCodeFirst
     using System.Data.Entity;
     using System.Linq;
     using VidzyCodeFirst.Entities;
+    using VidzyCodeFirst.EntityConfigurations;
 
     public class VidzyCodeFirstContext : DbContext
     {
@@ -23,8 +24,15 @@ namespace VidzyCodeFirst
 
         // public virtual DbSet<MyEntity> MyEntities { get; set; }
         public virtual DbSet<Video> Videos { get; set; }
-
         public virtual DbSet<Genre> Genres { get; set; }
+        public virtual DbSet<Tag> Tags { get; set; }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            modelBuilder.Configurations.Add(new VideoConfiguration());
+            modelBuilder.Configurations.Add(new GenreConfiguration());
+            modelBuilder.Configurations.Add(new TagConfiguration());
+        }
     }
 
     //public class MyEntity

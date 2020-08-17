@@ -17,6 +17,10 @@ namespace VidzyCodeFirst.Entities
 
         public Genre Genre { get; set; }
 
+        public byte GenreId { get; set; }
+
         public eClassification Classification { get; set; }
+
+        public IList<Tag> Tags { get; set; }
     }
 }

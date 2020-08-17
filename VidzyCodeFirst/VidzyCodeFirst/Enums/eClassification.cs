@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace VidzyCodeFirst.Enums
 {
-    public enum eClassification
+    public enum eClassification : byte
     {
         NotSet = 0,
 
